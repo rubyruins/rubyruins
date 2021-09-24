@@ -22,7 +22,7 @@ Text                     3 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/09/2021
+ Last Updated on 24/09/2021
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

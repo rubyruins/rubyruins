@@ -16,13 +16,12 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               11 mins             ████████████████████░░░░░   79.86% 
-Python                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.14%
+Python                   2 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

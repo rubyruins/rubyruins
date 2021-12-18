@@ -1,13 +1,15 @@
 ## Hi, I'm Soumya! 👋
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2059%20mins-blue)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-🌆 Daytime    158 commits    ███████░░░░░░░░░░░░░░░░░░   31.04% 
-🌃 Evening    213 commits    ██████████░░░░░░░░░░░░░░░   41.85% 
-🌙 Night      107 commits    █████░░░░░░░░░░░░░░░░░░░░   21.02%
+🌞 Morning    31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.08% 
+🌆 Daytime    158 commits    ███████░░░░░░░░░░░░░░░░░░   30.98% 
+🌃 Evening    213 commits    ██████████░░░░░░░░░░░░░░░   41.76% 
+🌙 Night      108 commits    █████░░░░░░░░░░░░░░░░░░░░   21.18%
 
 ```
 
@@ -16,12 +18,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

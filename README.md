@@ -12,12 +12,6 @@
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-
  Last Updated on 09/02/2022 19:32:13 UTC
 <!--END_SECTION:waka-->
 

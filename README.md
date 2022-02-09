@@ -6,10 +6,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.46% 
-🌆 Daytime    171 commits    ███████░░░░░░░░░░░░░░░░░░   31.15% 
-🌃 Evening    211 commits    █████████░░░░░░░░░░░░░░░░   38.43% 
-🌙 Night      137 commits    ██████░░░░░░░░░░░░░░░░░░░   24.95%
+🌞 Morning    30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
+🌆 Daytime    171 commits    ███████░░░░░░░░░░░░░░░░░░   31.09% 
+🌃 Evening    211 commits    █████████░░░░░░░░░░░░░░░░   38.36% 
+🌙 Night      138 commits    ██████░░░░░░░░░░░░░░░░░░░   25.09%
 
 ```
 
@@ -17,10 +17,13 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
 ```
 
 
- Last Updated on 09/02/2022 19:44:52 UTC
+ Last Updated on 09/02/2022 19:50:31 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

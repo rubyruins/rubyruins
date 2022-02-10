@@ -1,7 +1,7 @@
 ## Hi, I'm Soumya! 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -23,7 +23,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/02/2022 00:35:37 UTC
+ Last Updated on 10/02/2022 07:35:44 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

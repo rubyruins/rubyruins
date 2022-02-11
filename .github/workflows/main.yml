@@ -27,5 +27,4 @@ jobs:
           SHOW_COMMIT : "True"
           SHOW_LANGUAGE : "True"
           SHOW_DAYS_OF_WEEK : "False"
-          SHOW_TIME : "False"
           LOCALE: "en"

@@ -28,4 +28,4 @@ jobs:
           SHOW_LANGUAGE : "True"
           SHOW_DAYS_OF_WEEK : "False"
           LOCALE: "en"
-          SHOW_TIME: "False"
+          SHOW_TIME: false

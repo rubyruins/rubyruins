@@ -1,8 +1,6 @@
 ## Hi, I'm Soumya! 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2010%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -18,14 +16,15 @@
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 29 mins       ███████████████████████░░   92.41% 
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+Python                   3 hrs 28 mins       ███████████████████████░░   93.98% 
+Text                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 ```
 
 
- Last Updated on 11/02/2022 13:28:00 UTC
+ Last Updated on 12/02/2022 00:37:59 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

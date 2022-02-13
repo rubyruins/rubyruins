@@ -1,8 +1,6 @@
 ## Hi, I'm Soumya! 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%2010%20mins-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -20,7 +18,7 @@
 ```
 
 
- Last Updated on 12/02/2022 13:56:14 UTC
+ Last Updated on 13/02/2022 00:38:39 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

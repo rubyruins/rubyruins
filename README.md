@@ -17,12 +17,11 @@
 ```text
 💬 Programming Languages: 
 
-Python         █████████████████████████   99.85% 
-Roff           ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Python         █████████████████████████   100.0%
 ```
 
 
- Last Updated on 12/06/2022 00:34:19 UTC
+ Last Updated on 13/06/2022 00:38:10 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

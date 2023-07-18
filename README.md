@@ -17,13 +17,11 @@
 ```text
 💬 Programming Languages: 
 
-JavaScript     ████████████████████░░░░░   80.71% 
-CSS            ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-JSON           ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/07/2023 00:43:21 UTC
+ Last Updated on 18/07/2023 00:59:41 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

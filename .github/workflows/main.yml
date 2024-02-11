@@ -23,8 +23,6 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
-          SHOW_WEEKLY_DATA: "True"
-          SHOW_STATS_TIME: "False"
           SHOW_LOC_CHART: "False"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"

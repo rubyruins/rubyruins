@@ -19,6 +19,7 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_PROJECTS: "False"
           SHOW_WEEKLY_DATA: "True"
+          SHOW_STATS_TIME: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"

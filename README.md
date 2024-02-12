@@ -11,17 +11,8 @@
 ```
 
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-JavaScript               28 mins             ██████████████████████░░░   88.79 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-```
-
-
- Last Updated on 11/02/2024 22:25:03 UTC
+ Last Updated on 12/02/2024 21:01:20 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

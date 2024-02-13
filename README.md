@@ -15,15 +15,11 @@
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 3 mins         █████████████░░░░░░░░░░░░   50.29 % 
-JavaScript               28 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Python                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+
 ```
 
 
- Last Updated on 13/02/2024 08:39:15 UTC
+ Last Updated on 13/02/2024 08:46:23 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

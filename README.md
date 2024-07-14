@@ -15,13 +15,11 @@
 
 ```text
 💬 Programming Languages: 
-Terraform                ████████████████████████░   95.83 % 
-Other                    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-HCL                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Terraform                █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2024 01:13:37 UTC
+ Last Updated on 14/07/2024 01:18:57 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

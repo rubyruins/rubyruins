@@ -15,11 +15,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/12/2024 01:41:49 UTC
+ Last Updated on 17/12/2024 01:38:30 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 

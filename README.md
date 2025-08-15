@@ -15,11 +15,13 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   ███████████░░░░░░░░░░░░░░   43.77 % 
+CSV                      ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Markdown                 ███████░░░░░░░░░░░░░░░░░░   26.49 % 
 ```
 
 
- Last Updated on 14/08/2025 01:50:27 UTC
+ Last Updated on 15/08/2025 01:50:12 UTC
 <!--END_SECTION:waka-->
 
 [![Github Badge](https://img.shields.io/badge/-rubyruins-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/rubyruins/)](https://www.github.com/rubyruins/) 
